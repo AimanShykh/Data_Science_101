@@ -1,6 +1,6 @@
 # Data_Science_101
 
-This is a repository dedicated to my Data Science Training, containing Python assignments.
+This is a repository dedicated to my Data Science Training, containing all assignments and Quizzes.
 
   - Assignment 1: Installation
   - Assignment 2: Basics of Python
